@@ -10,10 +10,10 @@
 	</parent>
 	<groupId>fun.johntaylor</groupId>
 	<artifactId>sven</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>sven</name>
 	<packaging>jar</packaging>
-	<description>service center</description>
+	<description>user management</description>
 
 	<properties>
 		<java.version>1.8</java.version>
